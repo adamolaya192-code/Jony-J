@@ -10,7 +10,7 @@
 
 ## 播放方式
 
-用户要求站内播放，但没有提供本地音频或授权音源。因此只采用音乐权利方/平台提供的官方嵌入播放器或官方试听组件，不抓取音频、不自行代理音频 URL。最初选用 Apple Music，后按用户要求改为 YouTube 官方艺人频道中由 SHOOC 提供的官方音频。点击作品后，在站内播放器区域载入对应 YouTube 嵌入播放器。播放器在部分网络环境可能不可访问，页面应提示平台可用性限制。
+用户要求站内播放，但没有提供本地音频或授权音源。因此只采用音乐权利方/平台提供的官方嵌入播放器或官方试听组件，不抓取音频、不自行代理音频 URL。最初选用 Apple Music，后按用户要求改为 YouTube，再因当前网络环境无法播放而改用网易云音乐官方外链播放器。点击作品后，网易云播放器在当前页面载入，不跳转到歌曲页面。
 
 ## 技术与交互
 
@@ -29,6 +29,7 @@
 - Jony J 肖像使用 iQIYI 艺人资料页公开宣传图；《J HOOD Mixtape》《物女金》《喜新恋旧》《24时 (AM)》封面取自对应 Spotify 专辑资料页提供的图片。
 
 - iQIYI 的 Jony J 人物页可用于交叉核对简介及代表作：[JONY J-Jony J](https://www.iq.com/actor-info/jony-j-jony-j-234706205?lang=zh_cn)。
-- YouTube 官方艺人频道提供的歌曲：《不用去猜》(https://www.youtube.com/watch?v=PQYVfWZ07PQ)、《你看得见》(https://www.youtube.com/watch?v=6FvYOsDDJvI)、《顽家》(https://www.youtube.com/watch?v=4nIkgUydo2Q)、《信仰》(https://www.youtube.com/watch?v=a_FewszE0iE)、《不用去猜 (Jazz Version)》(https://www.youtube.com/watch?v=_l7XHnaC1tU)。页面标注 Provided to YouTube by SHOOC。
-- 官方歌曲视频可由 YouTube iframe 嵌入；播放能力仍受用户网络环境和 YouTube 内容政策影响。
+- 网易云音乐官方歌曲外链播放器可通过 `https://music.163.com/outchain/player?type=2&id=<歌曲编号>&auto=1&height=66` 嵌入当前页。
+- 已核对的曲目编号：《不用去猜》1933996314、《不用去猜 (Jazz Version)》490595927、《你看得见》501220404、《顽家》1488796175、《信仰》1325896318。
+- 歌曲播放仍受网易云音乐版权、登录、会员和地区状态限制。
 - 站点为粉丝介绍页，不暗示由歌手或厂牌制作、认可或授权。
