@@ -6,7 +6,7 @@
 
 ## 视觉与内容
 
-采用唱片内页风：深色底、低饱和纸张与金属唱片质感、醒目的标题排版，以及专辑卡片式作品陈列。页面包含首屏介绍、简短人物简介、代表作品列表和页面内播放器区域。移动端纵向浏览，桌面端使用更宽松的唱片陈列布局。人物事实及作品名称需来自可核验的公开来源；不使用未授权的肖像或专辑封面作为本地素材。
+采用唱片内页风：深色底、低饱和纸张与金属唱片质感、醒目的标题排版，以及专辑卡片式作品陈列。页面包含首屏介绍、简短人物简介、代表作品列表和页面内播放器区域。移动端纵向浏览，桌面端使用更宽松的唱片陈列布局。人物事实及作品名称需来自可核验的公开来源；页面展示艺人资料页中的公开宣传照和官方音乐平台专辑封面，并在页面标注图片来源；图片保持远程引用，不下载重托管。
 
 ## 播放方式
 
@@ -25,6 +25,8 @@
 - 人物介绍和作品条目有可追溯公开出处；外部嵌入和作品访问限制在界面中有合理呈现。
 
 ## 资料来源与边界
+
+- Jony J 肖像使用 iQIYI 艺人资料页公开宣传图；《J HOOD Mixtape》《物女金》《喜新恋旧》《24时 (AM)》封面取自对应 Spotify 专辑资料页提供的图片。
 
 - iQIYI 的 Jony J 人物页可用于交叉核对简介及代表作：[JONY J-Jony J](https://www.iq.com/actor-info/jony-j-jony-j-234706205?lang=zh_cn)。
 - YouTube 官方艺人频道提供的歌曲：《不用去猜》(https://www.youtube.com/watch?v=PQYVfWZ07PQ)、《你看得见》(https://www.youtube.com/watch?v=6FvYOsDDJvI)、《顽家》(https://www.youtube.com/watch?v=4nIkgUydo2Q)、《信仰》(https://www.youtube.com/watch?v=a_FewszE0iE)、《不用去猜 (Jazz Version)》(https://www.youtube.com/watch?v=_l7XHnaC1tU)。页面标注 Provided to YouTube by SHOOC。
